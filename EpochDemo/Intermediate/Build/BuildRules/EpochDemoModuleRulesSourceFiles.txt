@@ -1,0 +1,3 @@
+/Users/Shuhei_Hisagi/Documents/workspace/Demos/EpochDemo/Source/EpochDemo/EpochDemo.Build.cs
+/Users/Shuhei_Hisagi/Documents/workspace/Demos/EpochDemo/Source/EpochDemo.Target.cs
+/Users/Shuhei_Hisagi/Documents/workspace/Demos/EpochDemo/Source/EpochDemoEditor.Target.cs
